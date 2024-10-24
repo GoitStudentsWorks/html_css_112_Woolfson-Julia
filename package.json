@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-team18/",
+    "build": "vite build --base=/html_css_112_Woolfson-Julia/",
     "preview": "vite preview"
   },
   "devDependencies": {
